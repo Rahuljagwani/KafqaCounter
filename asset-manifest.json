@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KafqaCounter/static/css/main.80e1e7be.css",
+    "main.js": "/KafqaCounter/static/js/main.8fb21cfb.js",
+    "static/js/787.1937ded4.chunk.js": "/KafqaCounter/static/js/787.1937ded4.chunk.js",
+    "index.html": "/KafqaCounter/index.html",
+    "main.80e1e7be.css.map": "/KafqaCounter/static/css/main.80e1e7be.css.map",
+    "main.8fb21cfb.js.map": "/KafqaCounter/static/js/main.8fb21cfb.js.map",
+    "787.1937ded4.chunk.js.map": "/KafqaCounter/static/js/787.1937ded4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80e1e7be.css",
+    "static/js/main.8fb21cfb.js"
+  ]
+}
